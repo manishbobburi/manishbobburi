@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight:600; margin-bottom:10px;">Hi, I'm Manish Bobburi 👋</h1>
+<h1 align="center" style="font-weight:600; margin-bottom:10px;">Hi, I'm Manish Bobburi</h1>
 <p align="center" style="font-size:16px; color:gray; margin-top:0;">I build things for the web and beyond.</p>
 
 <hr style="border:0; border-top:1px solid #eaeaea; margin:20px 0;">
