@@ -36,6 +36,5 @@ or <a href="mailto:manishbobburi@icloud.com"><b>email</b></a> me.
 
 <a href="https://www.linkedin.com/in/manishbobburi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://twitter.com/manishbobburi" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
-<a href="https://www.leetcode.com/u/manishbobburi" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="DEV.to"></a>
 
 </div>
