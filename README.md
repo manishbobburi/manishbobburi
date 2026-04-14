@@ -1,72 +1,79 @@
 <div align="center">
 
-## Hi, I'm Manish Bobburi
+# `manish_bobburi`
 
-**Full-Stack Developer · Problem Solver · CS Undergrad @ LPU**
+`Backend Engineer | Cloud Enthusiast | ML Student`
 
-[Email](mailto:manishbobburi@icloud.com) · [Portfolio](https://manishb.vercel.app) · [LinkedIn](https://www.linkedin.com/in/manishbobburi)
+[Portfolio](https://manishb.vercel.app) • [LinkedIn](https://www.linkedin.com/in/manishbobburi) • [Email](mailto:manishbobburi@icloud.com)
 
 </div>
 
 ---
 
-### Tech Stack
+### `$ technical_stack`
 
-**Languages & Frameworks**
+<pre>
+<b>~ languages_and_frameworks</b>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,swift,react,tailwind" /></a>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,py,js,react,ts,swift,nodejs,express,tailwind,mysql,mongodb,sequelize,redis,rabbitmq)](https://skillicons.dev)
+<b>~ backend_and_runtime</b>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,redis,rabbitmq" /></a>
 
-**Tools & Infrastructure**
+<b>~ cloud_and_infrastructure</b>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github" /></a>
 
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,vim,git,github,docker,aws,postman,figma)](https://skillicons.dev)
+<b>~ databases_and_tools</b>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman,vim,figma" /></a>
+</pre>
 
 ---
 
-### Featured Projects
+### `$ featured_projects`
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-**[Interview Experiences](https://github.com/manishbobburi)**
-
-> A full-stack platform bridging the transparency gap in job interviews
-
-- JWT + RBAC secure authentication
-- Scalable RESTful APIs with Express
-- Deployed on **AWS EC2** + **Amazon RDS**
-- Responsive UI with React + Tailwind CSS
-- 99.9% uptime guaranteed
-
-`ReactJS` `NodeJS` `ExpressJS` `MySQL` `AWS`
-
-</td>
-<td width="50%" valign="top">
-
-**[Flight Booking Application](https://github.com/manishbobburi)**
-
-> Modular microservice-style booking system
-
-- Separated Flight, Booking & Notification services
-- Sequelize ORM with transaction consistency
-- JWT + Role-Based Access Control
-- Centralized error handling & middleware validation
-- Step-by-step responsive booking flow
-
-`ReactJS` `NodeJS` `MySQL` `Sequelize` `ExpressJS`
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>Interview Experiences</h4>
+      <code>99.9% uptime</code> <code>JWT+RBAC</code> <code>RESTful</code>
+      <br><br>
+      Full-stack platform bridging the transparency gap in job interviews. Implemented secure auth and scalable APIs.
+      <br><br>
+      <code>React</code> <code>Node.js</code> <code>MySQL</code> <code>AWS</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>Flight Booking System</h4>
+      <code>Microservices</code> <code>Sequelize</code> <code>Scalable</code>
+      <br><br>
+      Modular booking system with separated Flight, Booking, and Notification services. Built for high consistency.
+      <br><br>
+      <code>Node.js</code> <code>Express</code> <code>MySQL</code> <code>Redis</code>
+    </td>
+  </tr>
 </table>
 
 ---
 
-### GitHub Stats
+### `$ github_insights`
 
-<div align="center">
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishbobburi&theme=2077" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishbobburi&theme=transparent&hide_border=true&hide=currStreak,longStreak&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=ffffff&fire=ffffff" width="100%" />
+    </td>
+  </tr>
+</table>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishbobburi&theme=github_dark)
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manishbobburi&theme=github_dark&hide_border=true" width="48%" />
-
+<div>
+<pre>
+{
+  "status": "Open for Backend & Cloud Internships",
+  "location": "India",
+  "education": "CSE Undergrad @ LPU"
+}
+</pre>
 </div>
