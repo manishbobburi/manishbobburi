@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Manish Bobburi 👋
+## Hi, I'm Manish Bobburi
 
 **Full-Stack Developer · Problem Solver · CS Undergrad @ LPU**
 
-[Email](mailto:manishbobburi@icloud.com) · [Portfolio](#) · [LinkedIn](#) · [GitHub](#)
+[Email](mailto:manishbobburi@icloud.com) · [Portfolio](https://manishb.vercel.app) · [LinkedIn](https://www.linkedin.com/in/manishbobburi)
 
 </div>
 
@@ -67,8 +67,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishbobburi&theme=github_dark)
 
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishbobburi&theme=github_dark&hide_border=true" width="48%" />
 
 </div>
-
