@@ -10,24 +10,6 @@
 
 ---
 
-### `$ technical_stack`
-
-<pre>
-<b>~ languages_and_frameworks</b>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,swift,react,tailwind" /></a>
-
-<b>~ backend_and_runtime</b>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,redis,rabbitmq" /></a>
-
-<b>~ cloud_and_infrastructure</b>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github" /></a>
-
-<b>~ databases_and_tools</b>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman,vim,figma" /></a>
-</pre>
-
----
-
 ### `$ featured_projects`
 
 <table>
@@ -50,6 +32,24 @@
     </td>
   </tr>
 </table>
+
+---
+
+### `$ technical_stack`
+
+<pre>
+<b>~ languages_and_frameworks</b>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,swift,react,tailwind" /></a>
+
+<b>~ backend_and_runtime</b>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,redis,rabbitmq" /></a>
+
+<b>~ cloud_and_infrastructure</b>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github" /></a>
+
+<b>~ databases_and_tools</b>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman,vim,figma" /></a>
+</pre>
 
 ---
 
