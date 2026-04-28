@@ -48,7 +48,7 @@
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws,docker,linux,bash,git,github" /></a>
 
 <b>~ databases_and_tools</b>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman,vim,figma" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postman,vim,figma" /></a>
 </pre>
 
 ---
