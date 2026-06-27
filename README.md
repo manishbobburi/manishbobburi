@@ -54,18 +54,3 @@ Backend Engineer | Cloud Enthusiast | Machine Learning
   
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postman,vim,figma" /></a>
 </pre>
-
----
-
-### Github Insights
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manishbobburi&theme=2077" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=manishbobburi&theme=transparent&hide_border=true&hide=currStreak,longStreak&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=ffffff&fire=ffffff" width="100%" />
-    </td>
-  </tr>
-</table>
