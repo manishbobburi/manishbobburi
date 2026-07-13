@@ -44,7 +44,7 @@ Backend Engineer | Cloud Enthusiast | Machine Learning
 
 <b>Backend and Runtime</b>
   
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,redis,rabbitmq" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,sequelize,prisma,redis,rabbitmq" /></a>
 
 <b>Cloud and Infrastructure</b>
   
@@ -52,5 +52,5 @@ Backend Engineer | Cloud Enthusiast | Machine Learning
 
 <b>Databases and Tools</b>
   
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postman,vim,figma" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,postman,vim,figma" /></a>
 </pre>
